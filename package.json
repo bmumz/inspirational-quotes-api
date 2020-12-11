@@ -4,11 +4,21 @@
   "description": "Inspirational quote api.",
   "main": "db.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmumz/inspirational-quotes-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmumz/inspirational-quotes-api/issues"
+  },
+  "homepage": "https://github.com/bmumz/inspirational-quotes-api#readme"
 }
